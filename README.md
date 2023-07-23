@@ -33,6 +33,7 @@ Interface Intuitiva: A interface será projetada de forma intuitiva e amigável,
 $ git clone git@github.com:Klosban/mongodb-node.git
 
 # Vá para a pasta raiz do projeto
+$ cd .\mongodb-node\
 
 # Instale as dependências
 $ npm install
