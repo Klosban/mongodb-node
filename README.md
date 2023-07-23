@@ -6,7 +6,7 @@ A proposta do projeto é criar um sistema de gerenciamento de produtos, permitin
 
 Principais recursos e funcionalidades do projeto:
 
-Cadastro de Produtos: Os usuários poderão adicionar novos produtos fornecendo informações como nome, descrição, preço, quantidade em estoque, entre outros dados relevantes.
+Cadastro de Produtos: Os usuários poderão adicionar novos produtos fornecendo informações como nome, descrição e preço, entre outros dados relevantes.
 
 Listagem de Produtos: Todos os produtos cadastrados estarão disponíveis em uma lista, permitindo que os usuários visualizem facilmente as informações de cada item.
 
