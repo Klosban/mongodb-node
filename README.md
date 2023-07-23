@@ -27,8 +27,9 @@ Interface Intuitiva: A interface será projetada de forma intuitiva e amigável,
 ### `CSS` 🎨
 
 # 👨‍💻 Rodando a aplicação
+```bash
 # Clone este repositório
-$ git clone git@github.com:BrunoColpani/Get_A_Pet.git
+$ git clone git@github.com:Klosban/mongodb-node.git
 
 # Vá para a pasta raiz do projeto
 
@@ -37,3 +38,4 @@ $ npm install
 
 # Execute a aplicação com o nodemon
 $ npm start
+```
