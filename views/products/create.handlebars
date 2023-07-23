@@ -1,0 +1,16 @@
+<h1>Cadastrar Produto</h1>
+<form action="/products/create" method="POST" class="form-main">
+    <div class="form-control">
+        <label for="name">Nome do produto:</label>
+        <input type="text" name="name" placeholder="Digite aqui o nome do produto..." required>
+    </div>
+    <div class="form-control">
+        <label for="price">Preço do produto:</label>
+        <input type="number" name="price" placeholder="Digite aqui o preço do produto..." required>
+    </div>
+    <div class="form-control">
+        <label for="description">Descrição:</label>
+        <textarea name="description" placeholder="Digite aqui a descrição do produto..." required></textarea>
+    </div>
+    <input type="submit" value="Cadastrar" class="btn">
+</form>

@@ -1,0 +1,10 @@
+<h1>Produtos</h1>
+{{#each products }}
+    <ul class="products-list">
+        <a href="/products/{{this._id}}"><span>{{this.name}}</span> - R$ {{this.price}},00</a>
+        <a href="/products/edit/{{this._id}}" class="btn">Editar produto</a>
+        <form action="/products/delete/{{this._id}}" method="POST">
+            <button type="submit" class="btn btn-remove">Remover produto</button>
+        </form>
+    </ul>
+{{/each }}
