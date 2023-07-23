@@ -21,6 +21,7 @@ Interface Intuitiva: A interface será projetada de forma intuitiva e amigável,
 ### `Node.js` 🎨
 * Express.js
 * Mongoose
+* MVC
 
 ### `HANDLEBARS` 📄
 
