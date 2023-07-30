@@ -16,6 +16,11 @@ Remoção de Produtos: Os usuários poderão remover produtos do banco de dados 
 
 Interface Intuitiva: A interface será projetada de forma intuitiva e amigável, garantindo uma experiência de uso agradável para os usuários.
 
+<div align='center'>
+  <img src="./public/mongonode.PNG" width='45%'/>
+  <img src="./public/mongonode2.PNG" width='45%'/>
+</div><br/><br/>
+
 ## Tecnologias utilizadas no projeto 💻
 
 ### `Node.js` 🎨
